@@ -1,4 +1,3 @@
-package Assign;
 import java.util.HashSet;
 
 public class ExampleHashSet {
