@@ -1,4 +1,3 @@
-package Assign;
 import java.util.Hashtable;
 
 public class ExampleHashtable {
