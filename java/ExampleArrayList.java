@@ -17,5 +17,7 @@ public class ExampleArrayList {
         System.out.println("Updated ArrayList: " + numbers);
         numbers.remove(0);
         System.out.println("ArrayList after removal: " + numbers);
+        System.out.println("King is here");
+        System.out.println("Longlive the king");
     }
 }
