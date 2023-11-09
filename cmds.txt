@@ -1,0 +1,107 @@
+$ history
+    1  rm -rf .git\
+    2  pwd
+    3  git remote -c
+    4  git remote -v
+    5  pwd
+    6  rm -rf .git
+    7  git init
+    8  git status
+    9  git status
+   10  git status
+   11  git add .
+   12  git status
+   13  git add .
+   14  git commit -m "Added new files"
+   15  git log --graph
+   16  git push origin https://github.com/SujiChowdary02/AllFiles
+   17  git clone https://github.com/SujiChowdary02/AllFiles
+   18  cd Desktop
+   19  cd Gitt
+   20  git log --graph
+   21  git branch -M main
+   22  git remote add origin https://github.com/SujiChowdary02/AllFiles
+   23  git push -u origin main
+   24  git init
+   25  git add .
+   26  git status
+   27  git commit -m "New file"
+   28  git status
+   29  git init
+   30  git config --global --list
+   31  touch file{1..10}
+   32  git config --global --list
+   33  ls -a
+   34  ls -a
+   35  git config --global user.name sujith_marpuri
+   36  git config --global user.email sujith_marpuri@thbs.com
+   37  git config --global --list
+   38  git -v
+   39  git init
+   40  git status
+   41  touch file_{1..3}
+   42  ls -a
+   43  git status
+   44  git add .
+   45  git commit -m "New files added"
+   46  git status
+   47  git logs
+   48  git log --graph
+   49  nano file_1
+   50  git status
+   51  nano file_2
+   52  nano file_3
+   53  git status
+   54  git add .
+   55  git add .
+   56  git status
+   57  git commit -m "Files are updated"
+   58  git log
+   59  git log --graph
+   60  git branch
+   61  git branch slave1
+   62  git switch slave1
+   63  nano file_4
+   64  git add .
+   65  git add .
+   66  git status
+   67  git commit -m "New file_4 Added to branch slave1"
+   68  git log --graph
+   69  git switch master
+   70  git log --graph
+   71  ssh sujim@172.18.4.239
+   72  ssh sujim@172.18.4.239
+   73  git init
+   74  git add .
+   75  git commit -m "Added java folder"
+   76  git branch -M main
+   77  git remote add origin https://github.com/SujiChowdary02/repoFiles.git
+   78  git push -u origin main
+   79  git init
+   80  git add .
+   81  git commit -m "New file added"
+   82  git remote add https://github.com/SujiChowdary02/repoFiles.git
+   83  git remote add origin https://github.com/SujiChowdary02/repoFiles.git
+   84  git branch -M main
+   85  git push
+   86  git branch -M master
+   87  git push
+   88  git branch -M main
+   89  git push -u origin main
+   90  git push -u origin main
+   91  git remote -v
+   92  git init
+   93  git remote -v
+   94  git remote add origin https://github.com/SujiChowdary02/repoFiles.git
+   95  git pull --rebase
+   96  git branch -M main
+   97  git pull --rebase
+   98  git pull
+   99  git status
+  100  git add .
+  101  git commit -m "New file"
+  102  git pull
+  103  git pull origin main
+  104  git pull origin main --rebase
+  105  git push -u origin main
+  106  history
